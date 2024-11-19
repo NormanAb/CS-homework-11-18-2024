@@ -1,0 +1,6 @@
+Karolis, IV, 5
+Tadas, III, 2
+Ieva, II, 4
+Karolis, IV, 2
+Tadas, III, 3
+Ieva, II, 5
